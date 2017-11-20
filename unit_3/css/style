@@ -4,8 +4,8 @@
 
 
 
-div{
-	background-image: url(images/purple_glitter.jpg);
+body{
+	background-image: url(http://i66.tinypic.com/2d6t84l.jpg);
 	background-size: cover;
 }
 
@@ -51,8 +51,4 @@ p{
     padding: 12px;
     background-color: rgba(255,255,255,.3);
     color: black;
-}
-
-li a:hover {
-    background-color: rgb(0,209,193);
 }
