@@ -49,3 +49,7 @@ p{
     color: black;
     font-family: "Century Gothic",sans-serif;
 }
+
+.class{
+	align-self: center;
+}
