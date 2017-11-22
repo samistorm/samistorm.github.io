@@ -57,11 +57,12 @@ p{
   left: 50%;
 }
 
-div{
+#box{
 	background-color: white;
 	width: 300px;
 	border: 15px black;
 	padding: 15px
 	margin: 15px;
+	text-align: center;
 }
 
