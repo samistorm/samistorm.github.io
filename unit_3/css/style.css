@@ -59,12 +59,10 @@ p{
   left: 50%;
 }
 
-  input {
+    input[type="file"] {
       border: 0;
       padding: 10px;
       font-size: 18px;
-    }
-    input[type="file"] {
       background: rgb(0,209,193);
       color: white;
   }
