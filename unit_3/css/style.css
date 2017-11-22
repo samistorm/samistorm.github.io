@@ -72,4 +72,6 @@ p{
   	height: 50;
   	width: 50;
   	vertical-align: middle;
+  	border: 5;
+  	padding: 5;
   }
