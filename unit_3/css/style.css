@@ -64,7 +64,7 @@ p{
       padding: 10px;
       font-size: 18px;
     }
-    input[type="browse"] {
+    input[type="file"] {
       background: rgb(0,209,193);
       color: white;
   }
