@@ -67,3 +67,9 @@ p{
       color: white;
       font-family: "Century Gothic",sans-serif;
   }
+
+  img{
+  	height: 200;
+  	width: 200;
+  	vertical-align: middle;
+  }
