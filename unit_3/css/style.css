@@ -73,6 +73,10 @@ p{
   	height: 50;
   	width: 50;
   	vertical-align: middle;
-  	border: 5;
-  	padding: 5;
+  	border: 7;
+  	padding: 7;
+  }
+
+  a{
+  	color: rgb(0,209,193);
   }
