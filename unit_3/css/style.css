@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Josefin+Slab|Montserrat+Alternates);
+@import url(https://fonts.googleapis.com/css?family=Montserrat+Alternates);
 
 body{
 	background-image: url(http://i64.tinypic.com/neuskp.png);
@@ -28,7 +28,7 @@ h2{
 
 h3{
 	color: white;
-	font-family: 'Josefin Slab', serif;
+	font-family: 'Times New Roman', serif;
 	text-align: center;
 	font-size: 20px;
 	font-weight: normal;
