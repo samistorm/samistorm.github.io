@@ -40,6 +40,10 @@ p{
 	font-family: 'Quicksand', sans-serif;
  }
 
+nav{
+	 display: block;
+}
+
  ul{
 	list-style-type: none;
  }
@@ -49,7 +53,6 @@ p{
  }
 
  li a {
-    display: block;
     padding: 12px;
     margin: 0 0 6px 0;
     background-color: rgba(255,255,255,.3);
