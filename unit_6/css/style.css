@@ -149,6 +149,14 @@ a:hover{
 	background-color: black
 }
 
+#aside{
+	color: white;
+	text-align: center;
+	font-size: 14px;
+	font-weight: normal;
+	font-family: 'Quicksand', sans-serif;
+}
+
 /*aside{
 	background-color: rgb(0,209,193);
 	color: white;
