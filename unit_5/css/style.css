@@ -104,3 +104,13 @@ nav{
   section{
   	background-color: #FFE2B8;
   }
+
+  .clearfix:after{
+  	visibility: hidden;
+  	display: block;
+  	clear: both;
+  	height: 0;
+  	font-size: 0;
+  	content: " ";	
+  }
+
