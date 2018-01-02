@@ -137,6 +137,7 @@ a:hover{
 	float: left;
 	width: 50%; 
 	margin: 2%;
+	background-color: black
 }
 
 #right{
@@ -145,6 +146,7 @@ a:hover{
 	float: right;
 	width: 35%;
 	margin: 2%;
+	background-color: black
 }
 
 /*aside{
