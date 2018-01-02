@@ -43,6 +43,7 @@ p{
 nav{
 	display: block;
 	width: 100%;
+	background-color: #E8C66A;
 }
 
  ul{
@@ -92,4 +93,13 @@ nav{
   	color: white;
   	margin: 0 auto;
   	font-size: 10px;
+  	background-color: #FF957E;
+  }
+
+  header{
+  	background-color: #FFED74;
+  }
+
+  section{
+  	background-color: #FFE2B8;
   }
