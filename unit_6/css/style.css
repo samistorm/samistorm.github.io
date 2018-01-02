@@ -122,15 +122,16 @@ a:hover{
 
 
 #two-column{
-	border: 1px black solid;
+	border: 1px gay solid;
 	padding: 20px;
+	background-color: black
 }
 
 #left{
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
-	width: 60%; 
+	width: 55%; 
 }
 
 #right{
