@@ -44,7 +44,7 @@ nav{
 	display: block;
 	width: 100%;
 	background-color: #E8C66A;
-	overflow: hidden;
+	/*overflow: hidden;*/
 }
 
  ul{
