@@ -42,7 +42,7 @@ p{
 
 nav{
 	display: block;
-	margin: 15px;
+	margin: 15%;
 }
 
  ul{
@@ -54,8 +54,8 @@ nav{
  }
 
  li a {
-    padding: 12px;
-    margin: 0 0 6px 0;
+    padding: 12%;
+    margin: 0 0 6% 0;
     background-color: rgba(255,255,255,.3);
     color: black;
     font-family: 'Quicksand', sans-serif;
@@ -70,13 +70,13 @@ nav{
 
   input[type="file"] {
       border: 0;
-      padding: 10px;
+      padding: 10%;
       font-size: 18px;
       background: rgb(0,209,193);
       color: white;
       font-family: 'Quicksand', sans-serif;
       padding: 0;
-      margin: 0 0 20px 0;
+      margin: 0 0 20% 0;
   }
 
   img{
@@ -94,12 +94,12 @@ nav{
   	margin: 0 auto;
   	font-size: 10px;
 	font-family: 'Quicksand', sans-serif;
-	padding: 20px;
+	padding: 2%;
   }
 
   header{
   	background-color: none;
-  	padding: 0 0 20px 0;
+  	padding: 0 0 20% 0;
   }
 
   section{
@@ -125,22 +125,22 @@ a:hover{
 }
 
 
-#two-column{
+/*#two-column{
 	border: 1px gay solid;
 	padding: 20px;
 	background-color: black
-}
+}*/
 
 #left{
-	border: 1px black solid;
-	padding: 20px;
-	float: left;
-	width: 50%; 
+	border: none;
+	/*padding: 20px;*/
+	float: none;
+	width: 80%; 
 	margin: 2%;
-	background-color: black
+	background-color: transparent;
 }
 
-#right{
+/*#right{
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
@@ -149,7 +149,7 @@ a:hover{
 	background-color: black
 }
 
-#aside{
+/*#aside{
 	color: white;
 	text-align: center;
 	font-size: 14px;
