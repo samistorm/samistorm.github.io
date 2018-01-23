@@ -167,13 +167,19 @@ a:hover{
 @media only screen and (max-width: 480px){
 
 	li {
-		float: none
+		float: none;
 	}	
 	body {
-		font-size: 10px
+		font-size: 10px;
 	}
 	img {
-		width: 20;
+		width: 15;
+	}
+	h2 {
+		font-size: 1.5em;
+	}
+	h3{
+		font-size: 1.2em;
 	}
 }
 
